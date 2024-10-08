@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 🛒 E-Commerce Website
 
 Welcome to the **E-Commerce Website** project! This application is built using **Laravel** for the backend and **Vue.js** for the frontend, providing a full-stack solution for creating and managing an online store. 🚀
